@@ -240,6 +240,20 @@ Rarity Normal
 SetBorderColor 200 200 200
 SetFontSize 35
 
+# 1 Socket Workaround
+Show
+Sockets = "S"
+Rarity Normal
+SetBorderColor 200 200 200
+SetFontSize 35
+
+# 2 Socket Workaround
+Show
+Sockets = "SS"
+Rarity Normal
+SetBorderColor 200 200 200
+SetFontSize 35
+
 Show
 Quality > 10
 Rarity Normal
