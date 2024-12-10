@@ -233,23 +233,21 @@ SetFontSize 40
 # Salvagable Items
 #--------------------------
 
-# Not working!
-Show
-Sockets > 0
-Rarity Normal
-SetBorderColor 200 200 200
-SetFontSize 35
-
 # 1 Socket Workaround
 Show
-Sockets = "S"
-Rarity Normal
-SetBorderColor 200 200 200
+Sockets == S
+SetBorderColor 30 255 160 255
 SetFontSize 35
 
 # 2 Socket Workaround
 Show
-Sockets = "SS"
+Sockets == SS
+SetBorderColor 30 255 160 255
+SetFontSize 35
+
+# Not working!
+Show
+Sockets > 0
 Rarity Normal
 SetBorderColor 200 200 200
 SetFontSize 35
