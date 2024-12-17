@@ -267,6 +267,10 @@ Rarity Magic
 SetBorderColor 0 0 200
 SetFontSize 35
 
+Show
+Quality > 0
+SetBorderColor 0 255 218
+
 #--------------------------
 # OPTIONAL RULES
 #--------------------------
